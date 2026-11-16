@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 👋 Hey, I'm Giridhar
 
 ### `Engineering Student` · `Aspiring Software Developer` · `Lifelong Learner`
@@ -32,7 +32,7 @@ Curiosity  →  Learning  →  Building  →  Improving
 
 ## 🧰 My Tech Toolbox
 
-::: {align="center"}
+
 ![C](https://img.shields.io/badge/C-Learning-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Exploring-181717?style=flat-square&logo=github&logoColor=white)
@@ -69,11 +69,11 @@ progress---not just a list of finished work.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 ### Thanks for stopping by! ✨
 
 **Let's learn, build, and grow.**
 
 `<sub>`{=html}README crafted with curiosity • Updated as the journey
-evolves`</sub>`{=html}
-:::
+evolves`</sub>`
+
